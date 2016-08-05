@@ -1,0 +1,24 @@
+_repo: The-Consumer-Viewpoint--13-Covering-Vital-Phases-of-Manufacturing-and-Selling-Household-Device__7428
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bentley, Mildred Maddocks
+    alias: Maddocks, Mildred
+    gutenberg_agent_id: '2465'
+    url: http://www.gutenberg.org/2009/agents/2465
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7428'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Home economics -- Equipment and supplies'
+- GITenberg
+title: "The Consumer Viewpoint\r\nCovering Vital Phases of Manufacturing and Selling\
+  \ Household Devices"
+url: http://www.gutenberg.org/ebooks/7428
